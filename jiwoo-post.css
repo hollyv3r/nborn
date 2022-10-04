@@ -1,11 +1,4 @@
-#bgjw-hv {
-    background-image: url('https://imgur.com/MjF7qaQ.png');
-    width: 800px;
-    height: 600px;
-    position: relative; 
-    overflow: hidden;
-    z-index: 1;
-}
+#bgjw-hv { background-image: url('https://imgur.com/MjF7qaQ.png');width: 800px;height: 600px;position: relative; overflow: hidden;z-index: 1;}
 
 #sidejw-hv {
     float: right;
